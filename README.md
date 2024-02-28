@@ -1,9 +1,9 @@
-# limiteCharacter - module pour Node.js
+# limiteCharacter - middleware pour Node.js
 limiteCharacter, verifie si la longueur d'une chaîne de caractères est comprise entre une valeur minimale (par défaut, 2) et une valeur maximale (par défaut, 30) et renvoie true si c'est le cas, sinon false.
 
 
 ## installation
-Placer le fichier limiteCharacter.js dans le dossier modules
+Placer le fichier limiteCharacter.js dans le dossier middlewares
 
 
 ## utilisation
